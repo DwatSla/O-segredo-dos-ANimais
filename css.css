@@ -1,0 +1,21 @@
+body{
+ 
+
+    background-color: rgb(201, 185, 141);
+}
+ img{
+        display: block;
+        margin: 0 auto;
+        width: 500px;
+    }
+    
+h2{
+    color:rgb(70, 32, 8);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(58, 28, 17);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
